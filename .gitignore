@@ -1,0 +1,11 @@
+# Entorno virtual
+venv/
+.venv/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Datos temporales de coverage (se conserva htmlcov/ si se requiere como entregable o se ignora la base binaria)
+.coverage
